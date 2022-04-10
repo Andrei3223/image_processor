@@ -1,0 +1,8 @@
+# ninja log v5
+20	1616	6698195817086526	CMakeFiles/image_processor.dir/image_processor.cpp.obj	1810036d99220fa4
+29	240	6696417364057056	CMakeFiles/image_processor.dir/test.cpp.obj	6745195dedb91460
+8	2314	6698195824099992	CMakeFiles/image_processor.dir/read_image.cpp.obj	33fd43e0333476ab
+2745	3116	6698195832069710	image_processor.exe	d034a7ad8a316da5
+14	1656	6698195817508567	CMakeFiles/image_processor.dir/argparser.cpp.obj	f3ebac71d9ac7e3c
+1	557	6712997227033581	build.ninja	7290a6c2a6259f2b
+25	2744	6698195828393723	CMakeFiles/image_processor.dir/filters.cpp.obj	f9977e3ee5d0e612

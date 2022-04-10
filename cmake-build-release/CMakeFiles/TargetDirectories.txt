@@ -1,0 +1,3 @@
+D:/uni_hw/ОиМП/ImageProject/cmake-build-release/CMakeFiles/image_processor.dir
+D:/uni_hw/ОиМП/ImageProject/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/uni_hw/ОиМП/ImageProject/cmake-build-release/CMakeFiles/rebuild_cache.dir
